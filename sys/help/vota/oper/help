@@ -1,0 +1,13 @@
+4%s Hace encuestas sobre temas variados.
+Este servicio pretende que los usuarios den su opnion
+sobre los temas que manden los Operadores.
+Para cualquier duda 12/msg %s HELP [comando].
+
+12VOTA Vota una opción de la encuesta.
+12ESTADO Muestra el estado de las votaciones.
+
+Comandos disponibles para 12OPERadores de la Red:
+
+12ADD Añade una encuesta, borrando la anterior.
+12DEL Borra la encuesta activa.
+12OPCION Añade una opción para votar.

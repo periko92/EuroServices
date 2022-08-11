@@ -1,0 +1,4 @@
+Sintaxis: 12ADDVHOST <nick> <comentario>
+
+Añade una IP Virtual personaliza a un usuario de la red
+con la forma de la Vhost de los usuarios.

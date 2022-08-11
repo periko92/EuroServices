@@ -1,0 +1,5 @@
+Sintaxis: 12DELVHOST <nick>
+
+Borra la IP Virtual personalizada a un usuario
+de la Red, ya sea por malos comportamientos o
+por el simple hecho de borrarla.

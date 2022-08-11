@@ -1,0 +1,10 @@
+
+Para añadir opciones en el módulo de Ayuda:
+
+Escribe un documento en sys/help/help y guardalo como el
+nombre del comando. Ejemplo:
+para el comando help: guardamos en sys/help/help el documento
+guardado con el nombre "help" que el usuario consultará cuando
+envíe el comando help.
+
+lluneta@irc-euro.org

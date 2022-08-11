@@ -1,0 +1,5 @@
+Sintaxis: 12SET PASS <nueva clave>
+
+Cambia la clave de seguridad del NickName en las BDDs,
+cambiando la clave de identificación para usar el NickName a
+tunombre:nuevaclave.

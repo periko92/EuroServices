@@ -1,0 +1,22 @@
+4%s le permite proteger el nick con el modo 12+r y añadir una Vhost personalizada.
+Este servicio permite al usuario proteger su nick, posibilitando sólo su uso si el usuario escribe la contraseña.
+También le permite cambiar su IP virtual, dando así un toque de personalidad.
+Para cualquier duda 12/msg %s HELP [comando].
+
+12ACTUALIZA Actualiza tu nick en +r al nuevo %s.
+12REGISTER Migra tu nick a las DB's (+r).
+12INFO Informa si un nick ha migrado a la DB.
+12VHOST Se le asigna la vhost elegida.
+12SET Modifica varios aspectos personales.
+
+4Nota:El mal uso de este servicio puede llevar a la anulación del servicio.
+
+Comandos disponibles para los 12OPERadores de la Red:
+
+12DROP Borra a un usuario de las BDDs.
+12DELVHOST Borra su vhost personalizada.
+12ADDVHOST Añade una vhost personalizada.
+12SENDPASS Manda la clave al email.
+12GETPASS Muestra la contraseña de un nick.
+12OPER Asigna una vhost de Operador.
+12STATS Muestra las estadísticas de 4%s.

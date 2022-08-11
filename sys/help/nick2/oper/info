@@ -1,0 +1,4 @@
+Sintaxis: 12INFO <nick>
+
+Te informa si un determinado nick ha sido migrado
+a las Bases de Datos Distribuidas.

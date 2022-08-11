@@ -1,0 +1,8 @@
+Modifica varios aspectos personales.
+sintaxis: 12SET <opción> [parámetros]
+
+12PASS Cambia la pass del modo +r.
+12EMAIL Cambia el email del envío de la clave.
+12EDAD Cambia la información sobre tu edad.
+
+Si necesita más ayuda sobre algún comando escriba: 12HELP SET <opción>

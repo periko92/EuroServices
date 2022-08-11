@@ -1,0 +1,28 @@
+4%s Permite gestionar de forma cómoda la Red.
+Este servicio le ayuda a la administración de la Red a controlarla de forma cómoda y eficaz
+con todo tipo de recursos.
+Para cualquier duda 12/msg %s [comando].
+
+12GLOBAL Envía un mensaje a todos los usuarios de la Red.
+12NGLOBAL Envía un mensaje a todos los usuarios de la Red por noticia.
+12OP/DEOP Da o quita @ a un usuario en un canal.
+12VOICE/DEVOICE Da o quitaa voz a un usuario en un canal.
+12MODE Cambia los modos de un canal.
+12SAY Manda un mensaje a un canal.
+12KICK Expulsa a un usuario de un canal.
+12KILL Expulsa a un usuario de la Red.
+12AKILL No permite la entrada ni utilización de un nick, lo expulsa.
+12GLINE/UNGLINE Bloquea o desbloquea la entrada de una IP a la Red.
+12NEWS/DELNEWS Añade o borra a una noticia de ONCONNECT.
+12VIEWIP Muestro la IP real de un usuario.
+12ANULA/PERMITE/LISTA Anula o permite el uso de los servicios a un usuario.
+12ONLINE Muestra la hora en que fueron conectados los servicios.
+12RESTART Reinicia los servicios.
+2SET Modifica SÓLO las Bases de Datos Distribuidas de ircu-Hispano.
+
+Comandos disponibles para los 12ADMINistradores de la Red:
+
+12SHUTDOWN Finaliza los servicios.
+12RAW Manda un raw a la red, peligroso.
+12OPER Modifica la lista de Operadores.
+12ADMIN Modifica la lista de Administradores.

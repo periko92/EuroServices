@@ -1,0 +1,3 @@
+Sintaxis: 12SET EMAIL <correo@electrónico>
+
+Cambia el email de envío de la clave de las BDDs.

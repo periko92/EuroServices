@@ -1,0 +1,10 @@
+Sintaxis: 12REGISTER <clave> <correo@electrónico>
+
+Es una ampliación del comando REGISTER de 12NiCK, para
+poder registrartelo en las Bases de Datos Distribuidas tienes
+que estar previamente registrado en 12NiCK.
+Al estar registrado en las Bases de Datos no podrá ser usado si
+no se identifica de la forma que viene a continuación.
+Después de usar este comando tienes que cambiarte de nick y
+ponerte el mismo escribiendo 12<nick>:<clave>, por ejemplo,
+si tu nick fuera Pepe y tu clave Guapeton sería: 12Pepe:guapeton

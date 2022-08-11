@@ -1,0 +1,33 @@
+
+
+
+####################################################Http://www.irc-euro.org###
+##################### - Euro Services - ######################################
+##                                                                        - ##
+## -  Información sobre la instalación de EuroServices.                   - ##
+## -  P < lluneta@irc-euro.org >                                          - ##
+## -  Los EuroServices son unos Servicios de Red que gestionan las        - ##
+##    funciones que los Services Principales (NickServ, ChanServ...) no   - ##
+##    desempeñan.                                                         - ##
+##                                                                          ##
+##################### - Euro Services - ######################################
+####lluneta@irc-euro.org##########################################GNU/GPL#####
+
+
+	Después de descomprimir el fichero, escribe 'gcc -o tea tea.c'
+para compilar el encriptador TEA.
+	Luego, modifica 'services.conf' para modificar las opciones de
+configuración a tu Red.
+
+	Una vez modificado 'services.conf' y compilado el TEA sólo te
+queda iniciar los servicios, para ello escribe: 'perl serv.pl'
+
+	Por último añadir en la tabla 'o' a NiCK2 y a NetServ, para ello
+"/msg NetServ SET ADMIN ADD nick2" y luego a netserv y REINICIAR los bots. Y ya está.
+
+	Si se quieren añadir ayudas en HeLP, como lista de modos de canal de user o lo que sea,
+sólo tiene que subir el documento en sys/help/help. Por ejemplo, si sube un documento llamado
+"umodes" mandando el comando "umodes" a HeLP le imprimirá ese documento.
+
+	Si tienes alguna duda o sugerencia envía un mail a lluneta@irc-euro.org
+también puedes visitar la web http://www.irc-services.tk o http://www.irc-euro.org/irc-services

@@ -1,0 +1,14 @@
+4%s Examina a los futuros Operadores.
+Este servicio permite que los futuros Operadores se adapten a la Red en la forma de
+ayuda al usuario.
+Para cualquier duda 12/msg %s HELP [comando].
+
+12CONSULTA Consulta una duda con los Operadores.
+12OP/DEOP Mediante este comando puedes quitar o dar @ a un usuario.
+12VOICE/DEVOICE Da voz o la quita en el canal deseado.
+12MODE Cambia los modos de un canal.
+12INVITE Te invita a entrar en el canal deseado.
+12KICK Expulsa a un usuario de un canal.
+12KILL Expulsa a un usuario de la Red por mal comportamiento.
+12PREOPER Modifica la lista de Pre-OPERadores.
+

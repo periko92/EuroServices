@@ -1,0 +1,5 @@
+Sintaxis: 12ACTUALIZA <clave> <correo@electrónico>
+
+Si ya estás registrado con las BDDs (modo 12+r) y 4NO lo
+has hecho por medio de este Service éste comando te permite actualizar
+tu registro en la Base de Datos de 12%s.

@@ -1,0 +1,7 @@
+Sintaxis: 12VHOST <comentario>
+
+Le permite darle un toque de personalidad a la IP virtual,
+el comentario será seguido de 12iRC-Euro.User quedando
+asi la vhost 12Sexy.iRC-Euro.User
+Para que tenga efecto el cambio tendrá que cambiarse el nick
+y volverselo a poner.

@@ -1,0 +1,12 @@
+Comandos relacionados con las Bases de Datos Distribuidas (BDD) de IrcuHispano.
+Información sobre las BDDs: 12Http://www.irc-euro.org/devel/tabla.doc
+Sintaxis: 12SET <opción> [parámetros]
+
+12CLAVECIFRADO Cambia la clave de cifración de las IPs virtuales.
+12CLONES Determina un número de conexiónes a una determinada IP.
+12SOCKSCHANNEL Añade el canal donde el servidor mostrará la entrada de las conexiones inseguras.
+12MAXCLONES Determina un número de conexiones por IP a la red.
+12NICKREG Registra o borra a un nick SÓLO en la BDD.
+12VHOST Añade o borra una vhost a un nick.
+12ADMIN Modifica los administradores, SÓLO en la BDD.
+12OPER Modifica los operadores, SÓLO en la BDD.

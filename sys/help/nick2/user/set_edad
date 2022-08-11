@@ -1,0 +1,5 @@
+Sintaxis: 12SET EDAD [tu edad]
+
+Si se ha selecionado una edad, la mostrará cuando
+le pidan información sobre tu nick. Si no se ha
+escrito la edad borrara la anterior y no mostrará nada.
